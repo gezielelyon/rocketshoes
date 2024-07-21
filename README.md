@@ -2,16 +2,16 @@
 
 <div align='center'>
 
-# **React Rocketshoes**
+# **Rocketshoes**
 
 </div>
 
 <div align='center'>
 
-![GitHub issues](https://img.shields.io/github/issues/gezielelyon/react_rocketshoes)
-![GitHub forks](https://img.shields.io/github/forks/gezielelyon/react_rocketshoes)
-![GitHub starts](https://img.shields.io/github/stars/gezielelyon/react_rocketshoes)
-![GitHub license](https://img.shields.io/github/license/gezielelyon/react_rocketshoes)
+[![GitHub issues](https://img.shields.io/github/issues/gezielelyon/rocketshoes)](https://github.com/gezielelyon/rocketshoes/issues)
+[![GitHub forks](https://img.shields.io/github/forks/gezielelyon/rocketshoes)](https://github.com/gezielelyon/rocketshoes/network)
+[![GitHub stars](https://img.shields.io/github/stars/gezielelyon/rocketshoes)](https://github.com/gezielelyon/rocketshoes/stargazers)
+[![GitHub license](https://img.shields.io/github/license/gezielelyon/rocketshoes)](https://github.com/gezielelyon/rocketshoes)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![Typescript](https://img.shields.io/badge/Typescript-Typing-blue)
 ![HTML](https://img.shields.io/badge/HTML-Hypertext-red)
